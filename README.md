@@ -8,10 +8,4 @@ This research journal is organised using GitHub issues. There are a number of pa
 - [Research](https://github.com/Sark37/XAI/issues/15)
 - [Drafts in Progress](https://github.com/Sark37/XAI/issues/28)
 
-## Includes 
-- topic selection reasoning
-- sources considered and rejected
-- pivots
-- meeting notes
-- drafts-in-progress, culminating in the report.
 
